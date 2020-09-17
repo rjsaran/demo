@@ -1,5 +1,5 @@
 {
-  "users": [
+  "user": [
     {
       "id": "f6af4768-d248-4aa0-bbb3-af6b41019d17",
       "picture": "http://placehold.it/32x32",
@@ -34,7 +34,7 @@
   "business": [
     {
       "id": "6e51be4b-0748-43b8-a264-f308e458a3d9",
-      "user_id": 0,
+      "user_id": "f6af4768-d248-4aa0-bbb3-af6b41019d17",
       "name": "Sonique",
       "address": "599 Beacon Court, Konterra, Pennsylvania, 317121",
       "latitude": -20.900764,
@@ -43,7 +43,7 @@
     },
     {
       "id": "90663e95-5254-4a45-a119-17ad772d723e",
-      "user_id": 1,
+      "user_id": "0b5a9402-d597-4130-a3b9-97dbc0025b3d",
       "name": "Neocent",
       "address": "494 Jefferson Avenue, Worcester, Hawaii, 980691",
       "latitude": -85.236301,
@@ -52,7 +52,7 @@
     },
     {
       "id": "42c963fa-1a7d-4d39-91fe-c59192cdf3e2",
-      "user_id": 2,
+      "user_id": "4207be9a-9c26-4018-858e-f48d15044814",
       "name": "Xleen",
       "address": "329 Dewey Place, Datil, Texas, 386749",
       "latitude": -5.764145,
